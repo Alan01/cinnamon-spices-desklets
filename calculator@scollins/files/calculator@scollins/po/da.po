@@ -95,7 +95,7 @@ msgstr "Et lommeregner-skrivebordsprogram"
 
 #. calculator@scollins->metadata.json->name
 msgid "Desktop Calculator"
-msgstr "Skrivebordslommeregner"
+msgstr "Lommeregner"
 
 #. calculator@scollins->settings-schema.json->raiseKey->description
 msgid "Raise to top shorcut key"
